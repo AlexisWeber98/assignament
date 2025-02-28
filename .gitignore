@@ -1,0 +1,26 @@
+# Archivos generados por .NET
+bin/
+obj/
+
+# Archivos de configuración de entorno
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos temporales de build
+*.log
+*.tmp
+
+# Archivos de paquetes NuGet
+*.nupkg
+
+# Archivos de configuración de sistema
+.idea/
+.vscode/
+
+# Archivos generados por el sistema operativo
+Thumbs.db
+.DS_Store
+
+# Otros archivos de configuración o de usuario
+*.user
+
